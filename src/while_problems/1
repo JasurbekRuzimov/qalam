@@ -1,0 +1,17 @@
+
+        WHILE
+1. Berilgan sonning raqamlarini teskari tartibda chiqaruvchi dastur yozing.
+
+2. Berilgan son nechta raqamdan iboratligini aniqlang.
+
+3. Kiritilgan son palindrom (oldi va orqasi bir xil) ekanligini tekshiring.  rvgvgtgtvgtcv cd
+
+4. N ta hadi bo‘lgan Fibonacci ketma-ketligini while sikli yordamida chiqaring.
+
+5. Kiritilgan sonning faktorialini hisoblang (n!).
+
+6. Foydalanuvchi 0 kiritmaguncha sonlarni qabul qilib, ularning yig‘indisini hisoblang.
+
+7. Kiritilgan sonning raqamlar yig‘indisini topuvchi dastur tuzing.
+
+8. 1 dan N gacha bo‘lgan barcha juft sonlarni ekranga chiqaruvchi dastur yozing.
