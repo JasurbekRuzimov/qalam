@@ -14,7 +14,7 @@ public class MukammalSon {
                 }
             }
             if (sum == a) {
-                System.out.println("Mukammal son");
+                System.out.println("Mukammal son"); // ekpirement uchun
             } else {
                 System.out.println("Mukammal son emas");
             }
