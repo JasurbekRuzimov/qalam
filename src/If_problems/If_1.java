@@ -16,7 +16,6 @@ public class If_1 {
             System.out.println("Bu son 5 dan kichik");
         }
 
-
         noWork("ABRORBEK");
     }
 
