@@ -19,6 +19,7 @@ public class Switch1 {
                         String password = sc.next();
                         if (password.equals("12345")) {
                             System.out.println("You successfully logged in");
+                            break;
                         }
                         else {
                             System.out.println("You are not logged in");
