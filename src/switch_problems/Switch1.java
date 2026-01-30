@@ -30,6 +30,8 @@ public class Switch1 {
                     break;
                 case 2:
                     System.out.println("Ro'yxatdan o'tamiz");
+                    System.out.println("Ismingizni kiriting: ");
+                    String name1 = sc.next();
                     break;
                 default:
                     System.out.println("Bunday buyruq yo'q");
