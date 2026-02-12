@@ -24,5 +24,9 @@ public class Method {
         System.out.println("18-Kompyuter nomi: " + name);
     }
 
+    public  int  plus ( int a, int b ) {
+        return a+b;
+    }
+
 
 }
