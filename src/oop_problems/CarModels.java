@@ -11,7 +11,7 @@ public class CarModels {
 //
 //        moshina.haydash();
 //        moshina.haydash2();
-        oop.tenglik();
+  //      oop.tenglik();
 //
 //        System.out.println("Moshina color is " + moshina.color);
 //        System.out.println("Moshina model is " + moshina.model);
