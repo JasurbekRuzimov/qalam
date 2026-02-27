@@ -5,7 +5,7 @@ public class Harorat {
         System.out.println(harorat(2));
     }
     public static double harorat(int n) {
-        double C = n * 9.5;
-        return  C;
+        double c = n * 9.5;
+        return  c;
     }
 }
