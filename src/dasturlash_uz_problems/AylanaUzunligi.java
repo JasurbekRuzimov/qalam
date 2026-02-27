@@ -6,9 +6,8 @@ public class AylanaUzunligi {
         System.out.println(uzunlik(15));
     }
 
-    public static double uzunlik(double a){
-        return 2*a*3.14;
-
+    public static double uzunlik(double radius){
+        return 2*3.14*radius;
     }
 
 }
