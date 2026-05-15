@@ -1,0 +1,10 @@
+{
+  "employee": {
+    "id": "A001",
+    "name": "John Doe",
+    "age": 30,
+    "department": "Engineering",
+    "isActive": true,
+    "skills": ["JavaScript", "Python", "SQL"]
+  }
+}
