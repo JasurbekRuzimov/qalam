@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class File1 {
+public class WriteFile {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
