@@ -8,7 +8,6 @@ public class Delete {
         File file = new  File("C:\\Users\\Teacher\\IdeaProjects\\JavaLessons\\Otabek");
         if (file.delete()){
             System.out.println("File o'chdi");
-
         }else {
             System.out.println("File not deleted");
         }
